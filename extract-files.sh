@@ -45,6 +45,9 @@ while [ "${#}" -gt 0 ]; do
         * )
                 SRC="${1}"
                 ;;
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so)
+            llvm-strip --strip-debug "${2}"
+                ;;
     esac
     shift
 done
