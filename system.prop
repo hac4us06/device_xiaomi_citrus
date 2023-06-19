@@ -208,3 +208,4 @@ use.voice.path.for.pcm.voip=true
 vendor.camera.aux.packagelist=com.huaqin.cameraautotest,com.huaqin.factory,com.xiaomi.runin,com.android.camera
 vendor.camera.aux.packagelist2=com.qualcomm.qti.qmmi,org.codeaurora.snapcam
 vendor.mm.enable.qcom_parser=16777215
+# test
